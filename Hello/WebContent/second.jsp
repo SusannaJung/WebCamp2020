@@ -4,12 +4,14 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Second</title>
 </head>
 <body>
- <h1>Hello World!!!!</h1>
-    <%   
-	response.sendRedirect("http://www.google.com");  
-	%> 
+	<%   
+  
+String name=(String)pageContext.getAttribute("user",PageContext.SESSION_SCOPE);  
+out.print("Hello "+name);  
+  
+%>  
 </body>
 </html>
