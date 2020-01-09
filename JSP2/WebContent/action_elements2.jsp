@@ -40,6 +40,11 @@ Email:<input type="text" name="email"><br>
 
 <br><hr><br>
 
+<h1>Mouse Drag Example</h1>  
+  
+ <jsp:plugin align="middle" height="500" width="500"  
+     type="applet"  code="MouseDrag.class" name="clock" codebase="."/>  
+
 
 </body>
 </html>
