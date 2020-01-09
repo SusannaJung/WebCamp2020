@@ -4,4 +4,4 @@
 
 - EL(Expression Language) : 
 
-- 회원가입 예제: 
+- 회원가입 예제: https://github.com/SusannaJung/WebCamp2020/blob/master/JSP2/WebContent/register.jsp
