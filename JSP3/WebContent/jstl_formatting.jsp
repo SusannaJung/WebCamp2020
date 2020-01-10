@@ -24,7 +24,7 @@
 
 
 <c:set var="str" value="<%=new java.util.Date()%>" />  
-    <table border="2px" width="100%">  
+    <table style="width: 100%; border:2px;">  
       <tr>  
         <td width="100%" colspan="2" bgcolor="#FF7F50">  
           <p align="center">  
