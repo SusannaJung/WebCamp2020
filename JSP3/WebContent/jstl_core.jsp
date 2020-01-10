@@ -109,6 +109,7 @@ ${completeURL}
   <h4>JSTL Core "c:url" Tag</h4>
   <c:url value="/RegisterDao.jsp"/>  
   <br><hr><br>
+
   
 </body>
 </html>
