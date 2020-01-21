@@ -3,6 +3,8 @@ https://velog.io/@sanna422/Spring%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%EB%90%98%
 
 Hello Spring project : https://github.com/SusannaJung/WebCamp2020/tree/master/Spring2-2
 
+<img src = "https://github.com/SusannaJung/WebCamp2020/blob/master/Spring2-2/mainview.png" width="50%">
+
 https://github.com/SusannaJung/WebCamp2020/blob/master/HelloSpringProject/src/main/webapp/WEB-INF/views/employeesListDisplay.jsp
 
 <img src="https://github.com/SusannaJung/WebCamp2020/blob/master/HelloSpringProject/employees.png">
