@@ -9,5 +9,8 @@ https://github.com/SusannaJung/WebCamp2020/blob/master/HelloSpringProject/src/ma
 
 <img src="https://github.com/SusannaJung/WebCamp2020/blob/master/HelloSpringProject/employees.png">
 
+spring controller 예제 실행:
+https://github.com/SusannaJung/WebCamp2020/tree/master/Spring Controller
+
 Spring controller return type and parameter 정리 ->
 https://dynalist.io/d/TyMMa-YXm5kkuOBfK9PxzLZI
