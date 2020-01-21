@@ -8,3 +8,6 @@ Hello Spring project : https://github.com/SusannaJung/WebCamp2020/tree/master/Sp
 https://github.com/SusannaJung/WebCamp2020/blob/master/HelloSpringProject/src/main/webapp/WEB-INF/views/employeesListDisplay.jsp
 
 <img src="https://github.com/SusannaJung/WebCamp2020/blob/master/HelloSpringProject/employees.png">
+
+Spring controller return type and parameter 정리 ->
+https://dynalist.io/d/TyMMa-YXm5kkuOBfK9PxzLZI
