@@ -7,13 +7,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
-@RequestMapping("/user-module")
-
 public class MainController {
 	  @Autowired
 	    UserListService service;
 	 
-	    @RequestMapping(value = "/getUserListService", method = RequestMethod.GET)
+	  @RequestMapping(value = "/getUserList", method = RequestMethod.GET)
 	    public String getUserListService(Model model)
 	    {
 	        model.addAttribute("userlist", service.getUserListService());
@@ -21,4 +19,3 @@ public class MainController {
 	    }
 
 }
-
